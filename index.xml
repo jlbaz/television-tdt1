@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>cocina</title>
+<title>canal pesca</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -10,7 +10,7 @@
  
 <item>
 <title>canal accion</title>
-<thumbnail></thumbnail>
+<thumbnail>https://cdn3.computerhoy.com/sites/computerhoy.com/files/editores/user-72221/movistarplus.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/jlbaz/television-tdt1/master/cocina2.xml</externallink>
