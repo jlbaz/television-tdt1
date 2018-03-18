@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>canal accion</title>        
+<title>locomotiontv</title>        
 <urlsolve>http://locomotiontv.com/envivo/loco_channel/stream.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
