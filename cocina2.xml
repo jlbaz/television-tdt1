@@ -16,6 +16,13 @@
 </item>
   
 <item>
+<title>LA 1-1</title>        
+<urlsolve>http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
 <title>LA 2</title>        
 <urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8</urlsolve>
 <thumbnail></thumbnail>
@@ -57,6 +64,13 @@
 </item>
   
 <item>
+<title>LA SEXTA-1</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/898966361426231296/0sS0RzFh_400x400.jpg</thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
 <title>DIKKS</title>        
 <urlsolve>http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
@@ -66,6 +80,34 @@
 <item>
 <title>CUATRO</title>        
 <urlsolve>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>CUATRO-1</title>        
+<urlsolve>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>CUATRO-2</title>        
+<urlsolve>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>TELECINCO</title>        
+<urlsolve>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>TELECINCO-1</title>        
+<urlsolve>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -83,7 +125,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-  
+   
 <item>
 <title>MEGA</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
