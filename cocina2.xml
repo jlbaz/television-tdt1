@@ -2,11 +2,32 @@
 
 <item>
 <title>TELEVISION TDT</title>        
-<urlsolve></urlsolve>
+<urlsolve>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8/urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+  
+<item>
+<title>ANTENA 3</title>        
+<urlsolve>http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>ANTENA 3-1</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>ANTENA 3-2</title>        
+<urlsolve>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
 <item>
 <title>LA SEXTA</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</urlsolve>
