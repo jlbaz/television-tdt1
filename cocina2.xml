@@ -11,7 +11,7 @@
 <item>
 <title>LA 1</title>        
 <urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</urlsolve>
-<thumbnail>https://vignette.wikia.nocookie.net/campeones-sendokai/images/c/c9/La_1_HD.png/revision/latest?cb=20150130205120&path-prefix=es</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg</thumbnail>
 <fanart></fanart>
 </item>
   
@@ -24,7 +24,7 @@
   
 <item>
 <title>LA 2</title>        
-<urlsolve>http://www.vercanalestv.com/ver-tve-2-en-directo-documentales-la-2-online-gratis-en-vivo</urlsolve>
+<urlsolve>https://www.dropbox.com/s/4fcgr79kuzkyuvq/tve2.png?dl=1</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -205,22 +205,36 @@
 </item>
 
 <item>
-<title>M+ Golf HD </title>        
+<title>M+ Golf HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/569/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Eurosport 1 HD </title>        
+<title>Eurosport 1 HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>movistar accion HD</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/569/index.m3u8</urlsolve>
+<title>M+ ACCION</title>        
+<urlsolve>http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/489.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>M+ ESTRENO</title>        
+<urlsolve>http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/491.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>0 HD</title>        
+<urlsolve>http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -228,6 +242,13 @@
 <item>
 <title>M+ Series Xtra HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>M+ Xtra HD</title>        
+<urlsolve>http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/486.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -254,77 +275,77 @@
 </item>
 
 <item>
-<title>Fox  </title>        
+<title>Fox</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Hollywood HD  </title>        
+<title>Hollywood HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>AXN While </title>        
+<title>AXN While</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>AXN </title>        
+<title>AXN</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>AXN HD </title>        
+<title>AXN HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Comedy central </title>        
+<title>Comedy central</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>AMC HD </title>        
+<title>AMC HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FOX LIFE </title>        
+<title>FOX LIFE</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FOX LIFE HD </title>        
+<title>FOX LIFE HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FOX </title>        
+<title>FOX</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>COSMO </title>        
+<title>COSMO</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
