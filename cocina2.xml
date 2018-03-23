@@ -380,6 +380,7 @@
 </item> 
   
 <item>
+<item>
 <title>SECCION PORTUGAL</title>        
 <urlsolve>http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
@@ -388,7 +389,43 @@
   
 <item>
 <title>SPORT TV 1 HD</title>        
-<urlsolve>http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/36406.ts</urlsolve>
+<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1813.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>SPORT TV 2 HD</title>        
+<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/889.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>SPORT TV 3 HD</title>        
+<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1273.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>SPORT TV 4 HD</title>        
+<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1274.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>SPORT TV 5 HD</title>        
+<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1814.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+
+<item>
+<title>MOTOR TV</title>        
+<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/3691.ts</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
