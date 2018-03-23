@@ -378,3 +378,17 @@
 <thumbnail>http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif</thumbnail>
 <fanart></fanart>
 </item> 
+  
+<item>
+<title>SECCION PORTUGAL</title>        
+<urlsolve>http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+  
+<item>
+<title>SPORT TV 1 HD</title>        
+<urlsolve>http://ns534902.ip-144-217-64.net:8080/live/dennis/dennis/36406.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
