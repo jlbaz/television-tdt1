@@ -175,6 +175,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+  
+<item>
+<title>M+ FUTBOL</title>        
+<urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>Extreme Sports Channel</title>        
@@ -186,13 +193,6 @@
 <item>
 <title>M+ formula 1 hd </title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>M+ futbol hd </title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -347,6 +347,20 @@
 <item>
 <title>COSMO</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>TV AUTO</title>        
+<urlsolve>https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>REAL MADRID TV</title>        
+<urlsolve>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
