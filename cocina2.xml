@@ -394,51 +394,58 @@
   
 <item>
 <item>
-<title>SECCION PORTUGAL</title>        
+<title>SECCION ALEJANDRA</title>        
 <urlsolve>http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
   
 <item>
-<title>SPORT TV 1 HD</title>        
-<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1813.ts</urlsolve>
+<title>FOX LIFE</title>        
+<urlsolve>http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/98.ts</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>SPORT TV 2 HD</title>        
-<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/889.ts</urlsolve>
+<title>FOX P3</title>        
+<urlsolve>http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/54.ts</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>SPORT TV 3 HD</title>        
-<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1273.ts</urlsolve>
+<title>FOX PREMIUN ACTION</title>        
+<urlsolve>http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/15.ts</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>SPORT TV 4 HD</title>        
+<title>FOX PREMIUM CINEMA</title>        
 <urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1274.ts</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>SPORT TV 5 HD</title>        
-<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/1814.ts</urlsolve>
+<title>FOX PREMIUM CLASSICS</title>        
+<urlsolve>http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/14.ts</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
 
 
 <item>
-<title>MOTOR TV</title>        
-<urlsolve>http://clientportalpro.com:2500/live/eoskNZOyIl/xMTi5K35Lh/3691.ts</urlsolve>
+<title>FOX PREMIUM MOVIES</title>        
+<urlsolve>http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/13.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+  
+ <item>
+<title>FOX PREMIUM SERIES</title>        
+<urlsolve>http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/12.ts</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
