@@ -372,8 +372,8 @@
 </item> 
 
 <item>
-<title>HBO HD prueba 2</title>        
-<urlsolve>http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(05)/index.m3u8</urlsolve>
+<title>SPORT TV 1</title>        
+<urlsolve>http://vip-src.com:8080/live/sedat29/sedat29/1791.ts</urlsolve>
 <thumbnail>http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png</thumbnail>
 <fanart></fanart>
 </item> 
