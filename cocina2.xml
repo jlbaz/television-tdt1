@@ -37,7 +37,7 @@
   
 <item>
 <title>ANTENA 3-2</title>        
-<urlsolve>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</urlsolve>
+<urlsolve>http://playlist.onlybest.tv/ru/channel/af35913965d744cc4030d5ff5f996dda/615/index.m3u8</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/898962938614210560/3zeJbp6Q_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -70,9 +70,9 @@
 </item>
   
 <item>
-<title>DIKKS</title>        
-<urlsolve>http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8</urlsolve>
-<thumbnail></thumbnail>
+<title>LA SEXTA HD</title>        
+<urlsolve>http://playlist.onlybest.tv/ru/channel/af35913965d744cc4030d5ff5f996dda/618/index.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/898966361426231296/0sS0RzFh_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
   
@@ -96,6 +96,13 @@
 <thumbnail>https://pbs.twimg.com/profile_images/903514630873649153/pxrv1ZDn_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>CUATRO-3</title>        
+<urlsolve>http://playlist.onlybest.tv/ru/channel/af35913965d744cc4030d5ff5f996dda/616/index.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/903514630873649153/pxrv1ZDn_400x400.jpg</thumbnail>
+<fanart></fanart>
+</item>
   
 <item>
 <title>TELECINCO</title>        
@@ -107,6 +114,13 @@
 <item>
 <title>TELECINCO-1</title>        
 <urlsolve>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/631874922973896704/JpnxCQcC_400x400.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TELECINCO-2</title>        
+<urlsolve>http://playlist.onlybest.tv/ru/channel/af35913965d744cc4030d5ff5f996dda/617/index.m3u8</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/631874922973896704/JpnxCQcC_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
