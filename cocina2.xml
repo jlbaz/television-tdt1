@@ -515,7 +515,7 @@
   
 <item>
 <title>DISCOVERY HH</title>        
-<urlsolve>http://149.56.241.86:25461/live/Venenoplay/63ngdjj71Hdjgg/3.ts</urlsolve>
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/MzQ2MDA1NTYxMwcA/disc_hh.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -589,3 +589,38 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+  
+<item>
+<title>HBO HB SUB</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/MzQ2MDA1NTYxMwcA/disc_hh.m3u8</urlsolve>
+<thumbnail>https://imgur.com/cdXmXtl.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>HBO 2 HD</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/HBO_2_HD/MzQ2MDA1NTYxMwcA/hb02.m3u8</urlsolve>
+<thumbnail>http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png</thumbnail>
+<fanart></fanart>
+</item> 
+  
+<item>
+<title>HBO HD FAMILY prueba 3</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzQ2MDA1NTYxMwcA/hb0fam.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
+<fanart></fanart>
+</item> 
+  
+<item>
+<title>HBO PLUS HD</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzQ2MDA1NTYxMwcA/hboplus.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
+<fanart></fanart>
+</item> 
+  
+<item>
+<title>HBO HD SIGNATURE prueba 4</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzQ2MDA1NTYxMwcA/hbosign.m3u8</urlsolve>
+<thumbnail>http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif</thumbnail>
+<fanart></fanart>
+</item> 
