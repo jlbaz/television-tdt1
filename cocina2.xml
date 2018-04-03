@@ -386,36 +386,7 @@
 </item>
   
 <item>
-<title>futurama prueba</title>        
-<urlsolve>http://tecnotv.xyz/futurama1.php</urlsolve>
-<thumbnail>https://imgur.com/cdXmXtl.jpg</thumbnail>
-<fanart></fanart>
-</item> 
-
-<item>
-<title>SPORT TV 1</title>        
-<urlsolve>http://vip-src.com:8080/live/sedat29/sedat29/1791.ts</urlsolve>
-<thumbnail>http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png</thumbnail>
-<fanart></fanart>
-</item> 
-  
-<item>
-<title>HBO HD FAMILY prueba 3</title>        
-<urlsolve>http://streaming.latino-webtv.com/hls/live_1.m3u8?token=U2FsdGVkX1%2Fi3sVT4xuE8XGte2WF6ssfeLG7vZWFr7Jke1tTouQZyrX6gooRAodfKPcsun6zRG%2BJwgs4EaGppxXZg9O3QyzxdG9Ga8wT5VJoEW%2FUUd313y2ErRSQSmHX</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
-<fanart></fanart>
-</item> 
-  
-<item>
-<title>HBO HD SIGNATURE prueba 4</title>        
-<urlsolve>5B.%2522%2524b_o%253FtVD%255D%255BpN%257CQF%2540Sy7%257BA%26qp%3D10000%26qq%3D000001100000%26qr%3D0%26is%3DBmCCkSBBBBBBbBBBBq6YYNCu3NBBBwk0Bv34mCeCC4g6miE2wif6W0lBg1SfTBBBBBBeUIBCBBMBBvBUtBWx6jHdBofXe8kBPB2kc3MMpFBTaBBBBBBBBBBBtsWaBBBHCZ5iWeWSBM31KJPlglCCFMWFpcxaBCNBZnuBBOFeBCBBbBBwxBHryaIGoXjTr93nNBBB3BBJBBzBPBBBkDDBCDCCDCDDCCCC0GuBeEES8DDBqBCKqeMFB%26iv%3D5%26gz%3D0%26hh%3D0%26hn%3D0%26qt%3D0%26i%3DAOLONEFLASHINT1%26hp%3D1%26kq%3D1%26hq%3D0%26hs%3D0%26hu%3D0%26hr%3D0%26ht%3D1%26bq%3D8%26f%3D1%26nh%3D1%26tw%3Dnull%26j%3Dhttp%253A%252F%252Fplayer.livesports.pw%26lp%3Dhttp%253A%252F%252Fverplusonline.com%26o%3D3%26t%3D1522408392183%26de%3D370311648221%26m%3D0%26ar%3D940d723-clean%26q%3D1%26cb%3D0%26cu%3D1522408392183%26ll%3D6%26lm%3D4%26ln%3D1%26r%3D0%26em%3D0%26en%3D0%26d%3D22731%253A0%253A891919%253A1%26zMoatBuyer%3D-%26qs%3D1%26zGSRC%3D1%26gu%3Dhttp%253A%252F%252Fverplusonline.com%26bo%3Dverplusonline.com%26bd%3Dundefined%26zMoatDomain%3Dverplusonline.com%26zMoatSubdomain%3Dverplusonline.com%26gw%3Daolonebuyervideoflashint2012897410256%26fd%3D1%26ac%3D1%26it%3D500%26fs%3D140018%26na%3D759595357%26cs%3D0%26callback%3DMoatSuperV26.gna559210</urlsolve>
-<thumbnail>http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif</thumbnail>
-<fanart></fanart>
-</item> 
-  
-<item>
-<item>
-<title>SECCION ALEJANDRA</title>        
+<title>TELEVISION MEXICANA SECCION ALEJANDRA</title>        
 <urlsolve>http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -605,7 +576,7 @@
 </item> 
   
 <item>
-<title>HBO HD FAMILY prueba 3</title>        
+<title>HBO HD FAMILY</title>        
 <urlsolve>http://www.ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzQ2MDA1NTYxMwcA/hb0fam.m3u8</urlsolve>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
 <fanart></fanart>
@@ -619,7 +590,7 @@
 </item> 
   
 <item>
-<title>HBO HD SIGNATURE prueba 4</title>        
+<title>HBO HD SIGNATURE</title>        
 <urlsolve>http://www.ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzQ2MDA1NTYxMwcA/hbosign.m3u8</urlsolve>
 <thumbnail>http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif</thumbnail>
 <fanart></fanart>
