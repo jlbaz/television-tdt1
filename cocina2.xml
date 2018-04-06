@@ -1,87 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
-<item>
-<title>TELEVISION DIGITAL MOVISTAR PLUS</title> 
-<color>blue<color>
-<urlsolve>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
   
-<item>
-<title>locomotiontv</title>        
-<urlsolve>http://locomotiontv.com/envivo/loco_channel/stream.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-  
-<item>
-<title>BEIN LA LIGA</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8</urlsolve>
-<thumbnail> </thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BEIN SPORTS</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>LA LIGA TV</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-  
-<item>
-<title>M+ FUTBOL</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Extreme Sports Channel</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/47/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>M+ formula 1 hd </title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>M+ motoGP HD </title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>M+ Golf HD</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/569/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Eurosport 1 HD</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>M+ ACCION</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8</urlsolve>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUz3wopjU1WzoF3-3pYFbweQiDTk480MrcdjqWmN6fSW6oQ-CewQ</thumbnail>
+<thumbnail>https://i.imgur.com/72sGTeY.png</thumbnail>
 <fanart></fanart>
 </item>
   
@@ -116,28 +39,28 @@
 <item>
 <title>M+ Comedia</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/4GqLCmR.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>M+ DCine</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8</urlsolve>
-<thumbnail>https://movistar.i.lithium.com/t5/image/serverpage/image-id/111654i7C95D412172A5C0A?v=1.0</thumbnail>
+<thumbnail>https://i.imgur.com/FOgezsz.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Fox Life </title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/mbOC3GU.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Fox</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/F46q6Ye.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -207,7 +130,7 @@
 <item>
 <title>COSMO</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/w1WNiap.png</thumbnail>
 <fanart></fanart>
 </item>
   
