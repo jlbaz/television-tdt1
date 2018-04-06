@@ -37,17 +37,11 @@
   
 <item>
 <title>ANTENA 3-2</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/af35913965d744cc4030d5ff5f996dda/615/index.m3u8</urlsolve>
-<thumbnail>https://pbs.twimg.com/profile_images/898962938614210560/3zeJbp6Q_400x400.jpg</thumbnail>
-<fanart></fanart>
-</item>
-  
-<item>
-<title>ANTENA 3-3</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/898962938614210560/3zeJbp6Q_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>A3 SERIES</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</urlsolve>
@@ -68,14 +62,7 @@
 <thumbnail>https://pbs.twimg.com/profile_images/898966361426231296/0sS0RzFh_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
-  
-<item>
-<title>LA SEXTA HD</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/af35913965d744cc4030d5ff5f996dda/618/index.m3u8</urlsolve>
-<thumbnail>https://pbs.twimg.com/profile_images/898966361426231296/0sS0RzFh_400x400.jpg</thumbnail>
-<fanart></fanart>
-</item>
-  
+   
 <item>
 <title>CUATRO</title>        
 <urlsolve>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8</urlsolve>
