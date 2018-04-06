@@ -15,6 +15,13 @@
 </item>
 
 <item>
+<title>BEIN SPORTS Ñ</title>        
+<urlsolve>http://usuarios.club/usuarios/src5/BeinSportsN/iptv/club.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>LA LIGA TV</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
@@ -23,7 +30,7 @@
   
 <item>
 <title>M+ FUTBOL</title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8</urlsolve>
+<urlsolve>http://usuarios.club/usuarios/src5/MoviFutbol/iptv/club.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -45,6 +52,20 @@
 <item>
 <title>M+ motoGP HD </title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M+ DEPORTES 1 </title>        
+<urlsolve>http://usuarios.club/usuarios/src5/MoviDeportes/iptv/club.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M+ DEPORTES 2 </title>        
+<urlsolve>http://usuarios.club/usuarios/src5/MoviDeportes2/iptv/club.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
