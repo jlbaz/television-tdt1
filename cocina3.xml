@@ -113,6 +113,13 @@
 </item>
 
 <item>
+<title>DKISS HD</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/13533.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>TVG</title>        
 <urlsolve>http://europa-crtvg.flumotion.com/playlist.m3u8</urlsolve>
 <thumbnail>http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png</thumbnail>
