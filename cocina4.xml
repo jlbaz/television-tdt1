@@ -52,6 +52,13 @@
 </item>
 
 <item>
+<title>BARCA TV </title>        
+<urlsolve>http://163.172.69.73:25461/live/test21/test21/508.ts</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>M+ Golf HD</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8</urlsolve>
 <thumbnail></thumbnail>
