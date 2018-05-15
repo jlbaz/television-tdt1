@@ -85,15 +85,15 @@
 </item>
 
 <item>
-<title>NOVA NO FUNCIONA</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</urlsolve>
+<title>NOVA</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/7183.m3u8</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
   
 <item>
-<title>NEOX NO FUNCIONA</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</urlsolve>
+<title>NEOX</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/7186.m3u8</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_400x400.jpeg</thumbnail>
 <fanart></fanart>
 </item>
@@ -115,6 +115,13 @@
 <item>
 <title>DKISS HD</title>        
 <urlsolve>http://mypanel.tv:8080/live/berto/berto/13533.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ENERGY</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/8765.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
