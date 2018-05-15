@@ -6,9 +6,16 @@
 <thumbnail>https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>LA 1 HD</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/8782.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg</thumbnail>
+<fanart></fanart>
+</item>
    
 <item>
-<title>LA 2</title>        
+<title>LA 2 HD</title>        
 <urlsolve>http://mypanel.tv:8080/live/berto/berto/8781.m3u8</urlsolve>
 <thumbnail>https://www.dropbox.com/s/4fcgr79kuzkyuvq/tve2.png?dl=1</thumbnail>
 <fanart></fanart>
@@ -22,8 +29,8 @@
 </item>
   
 <item>
-<title>A3 SERIES NA FUNCIONA</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</urlsolve>
+<title>A3 SERIES</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/13544.m3u8</urlsolve>
 <thumbnail>https://puu.sh/xnPDd/ef771257b3.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -92,8 +99,8 @@
 </item>
    
 <item>
-<title>MEGA NO FUNCIONA</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
+<title>MEGA HD</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/13824.m3u8</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/760073526535651328/XBElFLWS_400x400.jpg</thumbnail>
 <fanart></fanart>
 </item>
