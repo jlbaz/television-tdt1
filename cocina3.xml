@@ -6,17 +6,10 @@
 <thumbnail>https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>LA 1 HD</title>        
-<urlsolve>http://mypanel.tv:8080/live/berto/berto/8782.m3u8</urlsolve>
-<thumbnail>https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg</thumbnail>
-<fanart></fanart>
-</item>
-   
+  
 <item>
 <title>LA 2 HD</title>        
-<urlsolve>http://mypanel.tv:8080/live/berto/berto/8781.m3u8</urlsolve>
+<urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8</urlsolve>
 <thumbnail>https://www.dropbox.com/s/4fcgr79kuzkyuvq/tve2.png?dl=1</thumbnail>
 <fanart></fanart>
 </item>
