@@ -10,6 +10,13 @@
 </item>
 
 <item>
+<title>LA LIGA 123</title>        
+<urlsolve>http://mypanel.tv:8080/live/berto/berto/16284.m3u8</urlsolve>
+<thumbnail>https://i.imgur.com/Le8KASa.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>LA LIGA TV</title>        
 <urlsolve>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8</urlsolve>
 <thumbnail>https://i.imgur.com/QqOaR3e.png</thumbnail>
