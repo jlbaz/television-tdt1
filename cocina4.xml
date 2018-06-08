@@ -72,19 +72,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>CAZA Y PESCA </title>        
-<urlsolve>http://mypanel.tv:8080/live/berto/berto/7232.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>IBERALIA </title>        
-<urlsolve>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>M+ Golf HD</title>        
@@ -93,17 +80,5 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>DEPORTES 1</title>        
-<urlsolve>http://mypanel.tv:8080/live/berto/berto/7240.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>DEPORTES 2</title>        
-<urlsolve>http://mypanel.tv:8080/live/berto/berto/16277.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
